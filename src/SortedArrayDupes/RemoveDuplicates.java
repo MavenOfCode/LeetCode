@@ -9,7 +9,9 @@ package SortedArrayDupes;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.List;
 
 public class RemoveDuplicates {
 
@@ -43,17 +45,20 @@ public class RemoveDuplicates {
             System.out.println(nums.length);
             return nums.length;
         }
-        int lengthCounter = 0;
-        int currentElement = 1;
-        while(currentElement < nums.length){
-            if(nums[currentElement] != nums[currentElement -1]){
-                nums[lengthCounter++] = nums[currentElement];
+        List finalArray = new ArrayList();
+        finalArray.add(nums[0]);
+        int newLength = nums.length;
+        for(int i = 1; i< nums.length; i ++){
+            if(nums[i] == nums[i-1]){
+                newLength -=1;
             }
-            currentElement++;
+            if(nums[i-1] != nums[i]) {
+                finalArray.add(nums[i]);
+            }
         }
-        System.out.println("here is deduped array" + Arrays.toString(nums));
-        System.out.println("here is final new length" +  (lengthCounter+1));
-        return lengthCounter +1;
+        System.out.println(finalArray.toString());
+        System.out.println("here is final new length " +  (newLength));
+        return newLength;
     }
 }
 

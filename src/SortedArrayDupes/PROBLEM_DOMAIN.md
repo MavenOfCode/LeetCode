@@ -32,3 +32,5 @@ int len = removeDuplicates(nums);
 for (int i = 0; i < len; i++) {
     print(nums[i]);
 }
+
+NOTE: FOR JAVA YOU MUST MAKE A NEW ARRAY as Array's have an immuteable size when passed in.

@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47232fef-69f1-4fb4-bfc9-d0ce64a501cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TrapRain/TrapRain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrapRain/TrapRain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -26,133 +29,101 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="17" />
+          <entry key="java" value="18" />
           <entry key="md" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="17" />
+          <entry key="JAVA" value="18" />
           <entry key="Markdown" value="7" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="8321" />
-          <entry key="md" value="580" />
+          <entry key="java" value="9630" />
+          <entry key="md" value="688" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="8321" />
-          <entry key="Markdown" value="580" />
+          <entry key="JAVA" value="9630" />
+          <entry key="Markdown" value="688" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.827027">
-      <split-first>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="261">
-                  <caret line="11" selection-start-line="11" selection-end-line="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/Main.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="145">
-                  <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/README.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="174">
-                    <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="1508">
-                  <caret line="55" column="28" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
-                  <folding>
-                    <element signature="imports" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/src/MaxProfit/maxProfit.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="145">
-                  <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/TrapRain/TrapRain.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="80">
-                  <caret line="20" selection-start-line="20" selection-end-line="33" selection-end-column="5" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="522">
-                  <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-first>
-      <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md">
-              <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="512">
-                    <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
-        </leaf>
-      </split-second>
-    </splitter>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="261">
+              <caret line="11" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/Main.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="145">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="174">
+                <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
+              </first_editor>
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MaxProfit/maxProfit.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="143">
+              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/TrapRain/TrapRain.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="117">
+              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/TrapRain/TrapRainTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Arquillian JUnit Test Class" />
-        <option value="JUnit4 Test Class" />
         <option value="Class" />
+        <option value="JUnit4 Test Class" />
       </list>
     </option>
   </component>
@@ -175,13 +146,14 @@
         <option value="$PROJECT_DIR$/test/LongestSubArrTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/SubarrayLongestArray/LongestSubArr.java" />
         <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md" />
-        <option value="$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/SortedArrayDupes/Main.java" />
-        <option value="$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/src/MaxProfit/maxProfit.java" />
+        <option value="$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md" />
+        <option value="$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java" />
+        <option value="$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java" />
         <option value="$PROJECT_DIR$/src/TrapRain/TrapRain.java" />
+        <option value="$PROJECT_DIR$/test/TrapRain/TrapRainTest.java" />
       </list>
     </option>
   </component>
@@ -254,6 +226,12 @@
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="SubarrayGreatestSum" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="SortedArrayDupes" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -266,7 +244,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542315607596" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542849260314" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -275,11 +253,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="TrapRain" />
       <recent name="SortedArrayDupes" />
       <recent name="com.company.addDigits" />
       <recent name="com.company.SubarrayGreatestSum" />
       <recent name="com.company.Print2DArray" />
-      <recent name="com.company.SubarrayLongestArray" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.company" />
@@ -304,43 +282,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortedArrayDupes.Main" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SortedArrayDupes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="SortedArrayDupes.MainClass" />
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SortedArrayDupes.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LongestSubArrTest.findLongestInterviewUnsortedLongTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="LongestSubArrTest" />
-      <option name="METHOD_NAME" value="findLongestInterviewUnsortedLongTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.TrapRainTest.trapRainFirstTest">
     <configuration name="RemoveDuplicatesTest.removeDuplicatesEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -357,7 +299,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
@@ -367,26 +309,74 @@
       </extension>
       <option name="PACKAGE_NAME" value="SortedArrayDupes" />
       <option name="MAIN_CLASS_NAME" value="SortedArrayDupes.RemoveDuplicatesTest" />
-      <option name="METHOD_NAME" value="removeDuplicatesSingleDupeTest" />
+      <option name="METHOD_NAME" value="removeDuplicatesNegativeDupeTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrapRainTest.trapFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TrapRain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TrapRain" />
+      <option name="MAIN_CLASS_NAME" value="TrapRain.TrapRainTest" />
+      <option name="METHOD_NAME" value="trapFirstTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrapRainTest.trapRainFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TrapRain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TrapRain" />
+      <option name="MAIN_CLASS_NAME" value="TrapRain.TrapRainTest" />
+      <option name="METHOD_NAME" value="trapRainFirstTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TrapRainTest.waterTrapFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TrapRain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="TrapRain" />
+      <option name="MAIN_CLASS_NAME" value="TrapRain.TrapRainTest" />
+      <option name="METHOD_NAME" value="waterTrapFirstTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.LongestSubArrTest.findLongestInterviewUnsortedLongTest" />
       <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicatesEmptyTest" />
-      <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" />
-      <item itemvalue="Application.MainClass" />
-      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" />
+      <item itemvalue="JUnit.TrapRainTest.waterTrapFirstTest" />
+      <item itemvalue="JUnit.TrapRainTest.trapFirstTest" />
+      <item itemvalue="JUnit.TrapRainTest.trapRainFirstTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.MainClass" />
-        <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" />
+        <item itemvalue="JUnit.TrapRainTest.trapRainFirstTest" />
+        <item itemvalue="JUnit.TrapRainTest.trapFirstTest" />
+        <item itemvalue="JUnit.TrapRainTest.waterTrapFirstTest" />
+        <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" />
         <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicatesEmptyTest" />
-        <item itemvalue="JUnit.LongestSubArrTest.findLongestInterviewUnsortedLongTest" />
       </list>
     </recent_temporary>
   </component>
@@ -403,49 +393,50 @@
       <workItem from="1541106278380" duration="2059000" />
       <workItem from="1541182799117" duration="7922000" />
       <workItem from="1541554607989" duration="19866000" />
-      <workItem from="1542412613404" duration="592000" />
+      <workItem from="1542412613404" duration="10673000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesEmptyTest - 2018.11.13 at 14h 17m 35s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesEmptyTest" configurationId="JUnit" />
+    <history-entry file="RemoveDuplicatesTest_removeDuplicatesMultipleDupeTest - 2018.11.21 at 14h 23m 00s.xml">
+      <configuration name="RemoveDuplicatesTest.removeDuplicatesMultipleDupeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesEmptyTest - 2018.11.13 at 14h 19m 07s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesEmptyTest" configurationId="JUnit" />
+    <history-entry file="RemoveDuplicatesTest_removeDuplicatesMultipleDupeTest - 2018.11.21 at 14h 23m 17s.xml">
+      <configuration name="RemoveDuplicatesTest.removeDuplicatesMultipleDupeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.13 at 14h 20m 11s.xml">
+    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.21 at 14h 23m 28s.xml">
       <configuration name="RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.13 at 14h 20m 52s.xml">
+    <history-entry file="RemoveDuplicatesTest_removeDuplicatesNegativeDupeTest - 2018.11.21 at 14h 24m 59s.xml">
+      <configuration name="RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveDuplicatesTest_removeDuplicatesNegativeDupeTest - 2018.11.21 at 14h 25m 39s.xml">
+      <configuration name="RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveDuplicatesTest_removeDuplicatesNegativeDupeTest - 2018.11.21 at 14h 26m 48s.xml">
+      <configuration name="RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.21 at 16h 52m 27s.xml">
       <configuration name="RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="LongestSubArrTest_findLengthOfLCISNegativeNumbers - 2018.11.13 at 14h 21m 55s.xml">
-      <configuration name="LongestSubArrTest.findLengthOfLCISNegativeNumbers" configurationId="JUnit" />
+    <history-entry file="TrapRainTest_waterTrapFirstTest - 2018.11.21 at 16h 52m 27s.xml">
+      <configuration name="TrapRainTest.waterTrapFirstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.13 at 14h 21m 55s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" configurationId="JUnit" />
+    <history-entry file="TrapRainTest_waterTrapFirstTest - 2018.11.21 at 16h 55m 52s.xml">
+      <configuration name="TrapRainTest.waterTrapFirstTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.13 at 14h 55m 55s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.13 at 15h 39m 27s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.13 at 17h 16m 50s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.13 at 17h 16m 53s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" configurationId="JUnit" />
+    <history-entry file="TrapRainTest_waterTrapFirstTest - 2018.11.21 at 16h 57m 07s.xml">
+      <configuration name="TrapRainTest.waterTrapFirstTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="30439000" />
+    <option name="totallyTimeSpent" value="40520000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="1" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1037196" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.02074392" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -455,7 +446,7 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32880434" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32880434" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39945653" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -518,9 +509,51 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java</url>
-          <line>18</line>
+          <line>20</line>
           <properties />
           <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java</url>
+          <line>55</line>
+          <properties />
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TrapRain/TrapRain.java</url>
+          <line>53</line>
+          <properties />
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TrapRain/TrapRain.java</url>
+          <line>52</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TrapRain/TrapRain.java</url>
+          <line>56</line>
+          <properties />
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TrapRain/TrapRain.java</url>
+          <line>57</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/TrapRain/TrapRain.java</url>
+          <line>59</line>
+          <properties />
+          <option name="timeStamp" value="25" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -646,44 +679,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxProfit/maxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1508">
-          <caret line="55" column="28" selection-start-line="55" selection-start-column="28" selection-end-line="55" selection-end-column="28" />
+        <state relative-caret-position="186">
+          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxProfit/maxProfit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="20" column="30" selection-start-line="20" selection-start-column="30" selection-end-line="20" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrapRain/TrapRain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="20" selection-start-line="20" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="1044">
+          <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="512">
-            <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <first_editor relative-caret-position="1015">
+            <caret line="35" column="91" selection-start-line="35" selection-start-column="91" selection-end-line="35" selection-end-column="91" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TrapRain/TrapRain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/TrapRain/TrapRainTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
         </state>
       </provider>
     </entry>

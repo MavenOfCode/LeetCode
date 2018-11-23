@@ -18,7 +18,7 @@ public class TrapRain {
 //    Add \min(\text{max_left},\text{max_right}) - \text{height}[i] to \text{ans}ans
 
 
-    public int trapRain(int[] array) {
+    public static int trapRain(int[] array) {
         int rainTrapped = 0;
         for (int i = 1; i < array.length - 1; i++) {
             int max_left = 0, max_right = 0;
@@ -32,4 +32,35 @@ public class TrapRain {
         }
         return rainTrapped;
     }
+
+    public static int trap(int[] height) {
+        if (height == null || height.length == 0) return 0;
+
+        int maxLeft = 0, maxright = 0, water = 0, start = 0, end = height.length - 1;
+        while (start < end) {
+            maxright = maxright > height[end] ? maxright : height[end];
+            water += maxLeft < maxright ? maxright - height[start++] : maxright - height[end--];
+        }
+        return water;
+    }
+
+    public static int waterTrap(int[] buildings){
+        if( buildings.length == 0) return 0;
+        int maxLeft = 0, maxRight = 0, water = 0, start = 0, end = buildings.length - 1;
+
+        while (start < end){
+            if (maxRight < buildings[end]){
+                maxRight = buildings[end];
+                end--;
+            }
+            if (maxLeft <= buildings[start]){
+                maxLeft = buildings[start];
+                start++;
+            }
+            water += Math.max(maxLeft-maxRight, maxRight-maxLeft);
+        }
+        return water;
+
+    }
+
 }
