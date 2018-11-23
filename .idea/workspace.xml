@@ -2,10 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47232fef-69f1-4fb4-bfc9-d0ce64a501cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MaxProfit/maxProfit.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/MaxProfit/maxProfit.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SortedArrayDupes/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TrapRain/TrapRain.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/TrapRain/TrapRain.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/TrapRain/TrapRainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/TrapRain/TrapRainTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MaxProfit/maxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MaxProfit/maxProfit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SortedArrayDupes/Main.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/TrapRain/TrapRain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrapRain/TrapRain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/TrapRain/TrapRainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/TrapRain/TrapRainTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -29,94 +36,33 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="1" />
-          <entry key="java" value="18" />
-          <entry key="md" value="7" />
+          <entry key="java" value="26" />
+          <entry key="md" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="1" />
-          <entry key="JAVA" value="18" />
-          <entry key="Markdown" value="7" />
+          <entry key="JAVA" value="26" />
+          <entry key="Markdown" value="9" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="9630" />
-          <entry key="md" value="688" />
+          <entry key="java" value="10788" />
+          <entry key="md" value="692" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="9630" />
-          <entry key="Markdown" value="688" />
+          <entry key="JAVA" value="10788" />
+          <entry key="Markdown" value="692" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="145">
-              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="174">
-                <caret line="6" column="28" selection-start-line="6" selection-start-column="28" selection-end-line="6" selection-end-column="28" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaxProfit/maxProfit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="143">
-              <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/TrapRain/TrapRain.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="117">
-              <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test/TrapRain/TrapRainTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -148,12 +94,16 @@
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/src/com/company/Main.java" />
         <option value="$PROJECT_DIR$/src/SortedArrayDupes/Main.java" />
-        <option value="$PROJECT_DIR$/src/MaxProfit/maxProfit.java" />
-        <option value="$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md" />
-        <option value="$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java" />
         <option value="$PROJECT_DIR$/src/TrapRain/TrapRain.java" />
         <option value="$PROJECT_DIR$/test/TrapRain/TrapRainTest.java" />
+        <option value="$PROJECT_DIR$/src/MaxProfit/maxProfit.java" />
+        <option value="$PROJECT_DIR$/test/MaxProfit/maxProfitTest.java" />
+        <option value="$PROJECT_DIR$/src/MaxProfitII/maxProfit2.java" />
+        <option value="$PROJECT_DIR$/test/MaxProfitII/maxProfit2Test.java" />
+        <option value="$PROJECT_DIR$/src/MaxProfitII/PROBLEM_DOMAIN.md" />
+        <option value="$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md" />
+        <option value="$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java" />
       </list>
     </option>
   </component>
@@ -163,7 +113,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
@@ -206,6 +156,12 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="MaxProfit" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="SortedArrayDupes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -223,14 +179,13 @@
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="company" type="462c0819:PsiDirectoryNode" />
-              <item name="SubarrayGreatestSum" type="462c0819:PsiDirectoryNode" />
+              <item name="SortedArrayDupes" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="SortedArrayDupes" type="462c0819:PsiDirectoryNode" />
+              <item name="TrapRain" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -244,7 +199,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542849260314" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543009689278" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -253,11 +208,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="MaxProfitII" />
+      <recent name="MaxProfit" />
       <recent name="TrapRain" />
       <recent name="SortedArrayDupes" />
       <recent name="com.company.addDigits" />
-      <recent name="com.company.SubarrayGreatestSum" />
-      <recent name="com.company.Print2DArray" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.company" />
@@ -282,101 +237,101 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TrapRainTest.trapRainFirstTest">
-    <configuration name="RemoveDuplicatesTest.removeDuplicatesEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.maxProfit2Test.maxProfitAltNoProfitTest">
+    <configuration name="maxProfit2Test.maxProfitAltNoProfitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SortedArrayDupes.*" />
+          <option name="PATTERN" value="MaxProfitII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SortedArrayDupes" />
-      <option name="MAIN_CLASS_NAME" value="SortedArrayDupes.RemoveDuplicatesTest" />
-      <option name="METHOD_NAME" value="removeDuplicatesEmptyTest" />
+      <option name="PACKAGE_NAME" value="MaxProfitII" />
+      <option name="MAIN_CLASS_NAME" value="MaxProfitII.maxProfit2Test" />
+      <option name="METHOD_NAME" value="maxProfitAltNoProfitTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="maxProfit2Test.maxProfitEmptyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="SortedArrayDupes.*" />
+          <option name="PATTERN" value="MaxProfitII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="SortedArrayDupes" />
-      <option name="MAIN_CLASS_NAME" value="SortedArrayDupes.RemoveDuplicatesTest" />
-      <option name="METHOD_NAME" value="removeDuplicatesNegativeDupeTest" />
+      <option name="PACKAGE_NAME" value="MaxProfitII" />
+      <option name="MAIN_CLASS_NAME" value="MaxProfitII.maxProfit2Test" />
+      <option name="METHOD_NAME" value="maxProfitEmptyTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrapRainTest.trapFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="maxProfit2Test.maxProfitExample1Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TrapRain.*" />
+          <option name="PATTERN" value="MaxProfitII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TrapRain" />
-      <option name="MAIN_CLASS_NAME" value="TrapRain.TrapRainTest" />
-      <option name="METHOD_NAME" value="trapFirstTest" />
+      <option name="PACKAGE_NAME" value="MaxProfitII" />
+      <option name="MAIN_CLASS_NAME" value="MaxProfitII.maxProfit2Test" />
+      <option name="METHOD_NAME" value="maxProfitExample1Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrapRainTest.trapRainFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="maxProfit2Test.maxProfitExample2Test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TrapRain.*" />
+          <option name="PATTERN" value="MaxProfitII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TrapRain" />
-      <option name="MAIN_CLASS_NAME" value="TrapRain.TrapRainTest" />
-      <option name="METHOD_NAME" value="trapRainFirstTest" />
+      <option name="PACKAGE_NAME" value="MaxProfitII" />
+      <option name="MAIN_CLASS_NAME" value="MaxProfitII.maxProfit2Test" />
+      <option name="METHOD_NAME" value="maxProfitExample2Test" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TrapRainTest.waterTrapFirstTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="maxProfit2Test.maxProfitExample3NoProfitTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="TrapRain.*" />
+          <option name="PATTERN" value="MaxProfitII.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="TrapRain" />
-      <option name="MAIN_CLASS_NAME" value="TrapRain.TrapRainTest" />
-      <option name="METHOD_NAME" value="waterTrapFirstTest" />
+      <option name="PACKAGE_NAME" value="MaxProfitII" />
+      <option name="MAIN_CLASS_NAME" value="MaxProfitII.maxProfit2Test" />
+      <option name="METHOD_NAME" value="maxProfitExample3NoProfitTest" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicatesEmptyTest" />
-      <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" />
-      <item itemvalue="JUnit.TrapRainTest.waterTrapFirstTest" />
-      <item itemvalue="JUnit.TrapRainTest.trapFirstTest" />
-      <item itemvalue="JUnit.TrapRainTest.trapRainFirstTest" />
+      <item itemvalue="JUnit.maxProfit2Test.maxProfitExample1Test" />
+      <item itemvalue="JUnit.maxProfit2Test.maxProfitExample2Test" />
+      <item itemvalue="JUnit.maxProfit2Test.maxProfitExample3NoProfitTest" />
+      <item itemvalue="JUnit.maxProfit2Test.maxProfitEmptyTest" />
+      <item itemvalue="JUnit.maxProfit2Test.maxProfitAltNoProfitTest" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TrapRainTest.trapRainFirstTest" />
-        <item itemvalue="JUnit.TrapRainTest.trapFirstTest" />
-        <item itemvalue="JUnit.TrapRainTest.waterTrapFirstTest" />
-        <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" />
-        <item itemvalue="JUnit.RemoveDuplicatesTest.removeDuplicatesEmptyTest" />
+        <item itemvalue="JUnit.maxProfit2Test.maxProfitAltNoProfitTest" />
+        <item itemvalue="JUnit.maxProfit2Test.maxProfitEmptyTest" />
+        <item itemvalue="JUnit.maxProfit2Test.maxProfitExample3NoProfitTest" />
+        <item itemvalue="JUnit.maxProfit2Test.maxProfitExample2Test" />
+        <item itemvalue="JUnit.maxProfit2Test.maxProfitExample1Test" />
       </list>
     </recent_temporary>
   </component>
@@ -393,50 +348,80 @@
       <workItem from="1541106278380" duration="2059000" />
       <workItem from="1541182799117" duration="7922000" />
       <workItem from="1541554607989" duration="19866000" />
-      <workItem from="1542412613404" duration="10673000" />
+      <workItem from="1542412613404" duration="15173000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesMultipleDupeTest - 2018.11.21 at 14h 23m 00s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesMultipleDupeTest" configurationId="JUnit" />
+    <history-entry file="maxProfit2Test_maxProfitExample1Test - 2018.11.23 at 13h 05m 43s.xml">
+      <configuration name="maxProfit2Test.maxProfitExample1Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesMultipleDupeTest - 2018.11.21 at 14h 23m 17s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesMultipleDupeTest" configurationId="JUnit" />
+    <history-entry file="maxProfit2Test_maxProfitExample1Test - 2018.11.23 at 13h 05m 45s.xml">
+      <configuration name="maxProfit2Test.maxProfitExample1Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.21 at 14h 23m 28s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" configurationId="JUnit" />
+    <history-entry file="maxProfit2Test_maxProfitExample2Test - 2018.11.23 at 13h 07m 54s.xml">
+      <configuration name="maxProfit2Test.maxProfitExample2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesNegativeDupeTest - 2018.11.21 at 14h 24m 59s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" configurationId="JUnit" />
+    <history-entry file="maxProfit2Test_maxProfitExample2Test - 2018.11.23 at 13h 41m 55s.xml">
+      <configuration name="maxProfit2Test.maxProfitExample2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesNegativeDupeTest - 2018.11.21 at 14h 25m 39s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" configurationId="JUnit" />
+    <history-entry file="maxProfit2Test_maxProfitExample1Test - 2018.11.23 at 13h 42m 07s.xml">
+      <configuration name="maxProfit2Test.maxProfitExample1Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesNegativeDupeTest - 2018.11.21 at 14h 26m 48s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesNegativeDupeTest" configurationId="JUnit" />
+    <history-entry file="maxProfit2Test_maxProfitExample2Test - 2018.11.23 at 13h 42m 16s.xml">
+      <configuration name="maxProfit2Test.maxProfitExample2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="RemoveDuplicatesTest_removeDuplicatesSingleDupeTest - 2018.11.21 at 16h 52m 27s.xml">
-      <configuration name="RemoveDuplicatesTest.removeDuplicatesSingleDupeTest" configurationId="JUnit" />
+    <history-entry file="maxProfit2Test_maxProfitExample2Test - 2018.11.23 at 13h 42m 35s.xml">
+      <configuration name="maxProfit2Test.maxProfitExample2Test" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrapRainTest_waterTrapFirstTest - 2018.11.21 at 16h 52m 27s.xml">
-      <configuration name="TrapRainTest.waterTrapFirstTest" configurationId="JUnit" />
+    <history-entry file="maxProfit2Test_maxProfitExample3NoProfitTest - 2018.11.23 at 13h 43m 12s.xml">
+      <configuration name="maxProfit2Test.maxProfitExample3NoProfitTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrapRainTest_waterTrapFirstTest - 2018.11.21 at 16h 55m 52s.xml">
-      <configuration name="TrapRainTest.waterTrapFirstTest" configurationId="JUnit" />
+    <history-entry file="maxProfit2Test_maxProfitEmptyTest - 2018.11.23 at 13h 43m 37s.xml">
+      <configuration name="maxProfit2Test.maxProfitEmptyTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TrapRainTest_waterTrapFirstTest - 2018.11.21 at 16h 57m 07s.xml">
-      <configuration name="TrapRainTest.waterTrapFirstTest" configurationId="JUnit" />
+    <history-entry file="maxProfit2Test_maxProfitAltNoProfitTest - 2018.11.23 at 13h 44m 00s.xml">
+      <configuration name="maxProfit2Test.maxProfitAltNoProfitTest" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40520000" />
+    <option name="totallyTimeSpent" value="45020000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.02074392" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24678111" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32880434" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39945653" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32880434" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.02646638" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -465,37 +450,6 @@
       <window_info anchor="right" id="Palette&#9;" order="6" />
       <window_info anchor="right" id="Database" order="7" />
       <window_info anchor="right" id="Maven Projects" order="8" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14306152" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Designer" order="2" />
-      <window_info id="Image Layers" order="3" />
-      <window_info id="Capture Tool" order="4" />
-      <window_info id="UI Designer" order="5" />
-      <window_info id="Learn" order="6" />
-      <window_info id="Favorites" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32880434" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39945653" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="11" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Maven Projects" order="8" />
     </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -508,52 +462,34 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java</url>
+          <url>file://$PROJECT_DIR$/src/MaxProfitII/maxProfit2.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaxProfitII/maxProfit2.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MaxProfitII/maxProfit2.java</url>
           <line>20</line>
           <properties />
-          <option name="timeStamp" value="17" />
+          <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java</url>
-          <line>52</line>
+          <url>file://$PROJECT_DIR$/src/MaxProfitII/maxProfit2.java</url>
+          <line>21</line>
           <properties />
-          <option name="timeStamp" value="18" />
+          <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java</url>
-          <line>55</line>
+          <url>file://$PROJECT_DIR$/src/MaxProfitII/maxProfit2.java</url>
+          <line>22</line>
           <properties />
-          <option name="timeStamp" value="19" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TrapRain/TrapRain.java</url>
-          <line>53</line>
-          <properties />
-          <option name="timeStamp" value="21" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TrapRain/TrapRain.java</url>
-          <line>52</line>
-          <properties />
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TrapRain/TrapRain.java</url>
-          <line>56</line>
-          <properties />
-          <option name="timeStamp" value="23" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TrapRain/TrapRain.java</url>
-          <line>57</line>
-          <properties />
-          <option name="timeStamp" value="24" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/TrapRain/TrapRain.java</url>
-          <line>59</line>
-          <properties />
-          <option name="timeStamp" value="25" />
+          <option name="timeStamp" value="33" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -652,20 +588,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
+    <entry file="file://$PROJECT_DIR$/test/TrapRain/TrapRainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="137">
+          <caret line="26" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="33" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/TrapRain/TrapRain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="1334">
+          <caret line="46" selection-start-line="46" selection-start-column="2" selection-end-line="64" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/MaxProfit/maxProfitTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="754">
+          <caret line="28" column="23" selection-start-line="28" selection-start-column="23" selection-end-line="28" selection-end-column="23" />
         </state>
       </provider>
     </entry>
@@ -679,17 +619,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxProfit/maxProfit.java">
+    <entry file="file://$PROJECT_DIR$/src/com/company/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="143">
-          <caret line="5" column="68" selection-start-line="5" selection-start-column="68" selection-end-line="5" selection-end-column="68" />
+        <state relative-caret-position="215">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="186">
-          <caret line="48" column="32" selection-start-line="48" selection-start-column="32" selection-end-line="48" selection-end-column="32" />
+        <state relative-caret-position="-975">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -698,32 +638,59 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1044">
+        <state relative-caret-position="128">
           <caret line="38" column="36" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxProfit/maxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="258">
+          <caret line="24" column="12" lean-forward="true" selection-start-line="24" selection-start-column="12" selection-end-line="25" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxProfitII/PROBLEM_DOMAIN.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="29">
+            <caret line="1" selection-start-line="1" selection-end-line="1" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/MaxProfitII/maxProfit2Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="116">
+          <caret line="6" column="86" selection-start-line="6" selection-start-column="86" selection-end-line="6" selection-end-column="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxProfitII/maxProfit2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="33" column="25" selection-start-line="33" selection-start-column="25" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="29">
+          <caret line="1" column="2" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="1015">
-            <caret line="35" column="91" selection-start-line="35" selection-start-column="91" selection-end-line="35" selection-end-column="91" />
+          <first_editor>
+            <caret column="86" selection-start-column="86" selection-end-column="86" />
           </first_editor>
           <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TrapRain/TrapRain.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="20" column="18" selection-start-line="20" selection-start-column="18" selection-end-line="20" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/TrapRain/TrapRainTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="16" column="43" selection-start-line="16" selection-start-column="43" selection-end-line="16" selection-end-column="43" />
         </state>
       </provider>
     </entry>

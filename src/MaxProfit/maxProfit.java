@@ -14,7 +14,7 @@ public class maxProfit {
     // -- aso reset min by calculating min by using Math.min(min vs prices[i]);
     //return profit
 
-    public int maxProfit(int[] prices) {
+    public static int maxProfit(int[] prices) {
         if(prices==null||prices.length<=1)
             return 0;
 

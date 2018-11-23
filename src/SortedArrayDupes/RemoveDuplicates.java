@@ -1,11 +1,11 @@
 package SortedArrayDupes;
-
+//https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/727/
 //first iterate through the given sorted array
 //check each element in the array against the next element for duplicates
 // if any element matches any other element remove that element from the current array
 //to do this in place rewrite the current array element values while shortening the length of the current array
 
-//CANNOT GET CORRECT ARRAY LENGTH WITHOUT LEET CODE SPECIAL PARSING CODE
+//CANNOT PASS LEETCODE TEST, but works in my tests.
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
@@ -41,8 +41,6 @@ public class RemoveDuplicates {
 
     public static int removeDuplicates(int[] nums){
         if(nums.length < 2){
-            System.out.println(Arrays.toString(nums));
-            System.out.println(nums.length);
             return nums.length;
         }
         List finalArray = new ArrayList();
@@ -61,5 +59,3 @@ public class RemoveDuplicates {
         return newLength;
     }
 }
-
-//modifying code from leetcode for array changes
