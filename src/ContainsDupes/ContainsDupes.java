@@ -28,9 +28,11 @@ public class ContainsDupes {
     public static boolean containsDupes(int[] array){
         boolean result = false;
         Map<Integer, Integer> check = new HashMap<Integer, Integer>();
-        for(int element : array){
-            if(!check.containsKey(array[element])){
-                check.put(array[element],1);
+
+        //initial wrong use of index reference to put into and check in Map
+        for(Integer i : array){
+            if(!check.containsKey(i)){
+                check.put(i,1);
             } else {
                 result = true;
             }
