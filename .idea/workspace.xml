@@ -2,12 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47232fef-69f1-4fb4-bfc9-d0ce64a501cd" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MaxProfitII/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/MaxProfitII/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SortedArrayDupes/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/LeetCode/SortedArrayDupes/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/MaxProfitII/maxProfit2Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/test/LeetCode/MaxProfitII/maxProfit2Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TrapRain/TrapRain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TrapRain/TrapRain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/MaxProfitII/maxProfit2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/MaxProfitII/maxProfit2Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LeetCode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/company/LongestSubArray/LeetCode.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MaxProfit/maxProfit.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/MaxProfitII/maxProfit2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/RotateArray/RotateArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/SortedArrayDupes/RemoveDuplicates.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/TrapRain/TrapRain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/Print2DArray/PrintArrays.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/SubarrayGreatestSum/maxSubArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/SubarrayLongestArray/LongestSubArr.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/LeetCode/com/company/addDigits/addDigits.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/LongestSubArrTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/MaxProfit/maxProfitTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/MaxProfitII/maxProfit2Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/RotateArray/RotateArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/SortedArrayDupes/RemoveDuplicatesTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/TrapRain/TrapRainTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/com/company/Print2DArray/PrintArraysTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/com/company/SubarrayGreatestSum/maxSubArrayTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/test/LeetCode/com/company/addDigits/addDigitsTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/LongestSubArrTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/com/company/LongestSubArray/LongestSubArrTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -34,40 +51,41 @@
     <session id="496605162">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="6" />
+          <entry key="project.closed" value="7" />
           <entry key="project.open.time.17" value="1" />
           <entry key="project.open.time.2" value="2" />
           <entry key="project.open.time.20" value="1" />
+          <entry key="project.open.time.22" value="1" />
           <entry key="project.open.time.42" value="1" />
           <entry key="project.open.time.82" value="1" />
           <entry key="project.open.time.9" value="1" />
-          <entry key="project.opened" value="7" />
+          <entry key="project.opened" value="8" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="5" />
-          <entry key="java" value="36" />
-          <entry key="md" value="11" />
+          <entry key="java" value="40" />
+          <entry key="md" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="5" />
-          <entry key="JAVA" value="36" />
-          <entry key="Markdown" value="11" />
+          <entry key="JAVA" value="40" />
+          <entry key="Markdown" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="11758" />
-          <entry key="md" value="697" />
+          <entry key="java" value="13279" />
+          <entry key="md" value="705" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="11758" />
-          <entry key="Markdown" value="697" />
+          <entry key="JAVA" value="13279" />
+          <entry key="Markdown" value="705" />
         </counts>
       </usages-collector>
     </session>
@@ -75,61 +93,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaxProfitII/maxProfit2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="474">
-              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="33" selection-end-column="25" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RotateArray/RotateArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="259">
-              <caret line="10" selection-start-line="10" selection-end-line="10" />
+            <state relative-caret-position="298">
+              <caret line="18" selection-start-line="18" selection-end-line="45" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaxProfit/maxProfit.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="98">
-              <caret line="16" selection-start-line="16" selection-end-line="29" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-779">
-              <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor>
-                <caret column="86" selection-start-column="86" selection-end-column="86" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/TrapRain/TrapRain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-150">
-              <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="33" selection-end-column="5" />
+            <state relative-caret-position="29">
+              <caret line="19" selection-start-line="19" selection-end-line="33" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -137,17 +113,61 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/TrapRain/TrapRainTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="645">
-              <caret line="26" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="33" selection-end-column="7" />
+            <state relative-caret-position="696">
+              <caret line="26" selection-start-line="26" selection-start-column="2" selection-end-line="33" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test/RotateArray/RotateArrayTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="17" selection-start-line="17" selection-end-line="42" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/test/RotateArray/RotateArrayTest.java">
+        <entry file="file://$PROJECT_DIR$/test/com/company/LongestSubArray/LongestSubArrTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="534">
-              <caret line="24" selection-start-line="24" selection-start-column="2" selection-end-line="42" selection-end-column="7" />
+            <state relative-caret-position="-812">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ContainsDupes/ContainsDupes.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#960#978#0" expanded="true" />
+                <element signature="e#1391#1400#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/ContainsDupes/ContainsDupesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="319">
+              <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ContainsDupes/PROBLEM_DOMAIN.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="174">
+                <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="16" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
         </entry>
@@ -155,7 +175,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/MaxProfitII/maxProfit2Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="29">
+            <state relative-caret-position="145">
               <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
             </state>
           </provider>
@@ -215,9 +235,13 @@
         <option value="$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java" />
         <option value="$PROJECT_DIR$/test/MaxProfitII/maxProfit2Test.java" />
         <option value="$PROJECT_DIR$/src/RotateArray/PROBLEM_DOMAIN.md" />
-        <option value="$PROJECT_DIR$/test/RotateArray/RotateArrayTest.java" />
-        <option value="$PROJECT_DIR$/src/RotateArray/RotateArray.java" />
         <option value="$PROJECT_DIR$/src/TrapRain/TrapRain.java" />
+        <option value="$PROJECT_DIR$/src/RotateArray/RotateArray.java" />
+        <option value="$PROJECT_DIR$/test/RotateArray/RotateArrayTest.java" />
+        <option value="$PROJECT_DIR$/src/ContainsDupes.java" />
+        <option value="$PROJECT_DIR$/src/ContainsDupes/PROBLEM_DOMAIN.md" />
+        <option value="$PROJECT_DIR$/src/ContainsDupes/ContainsDupes.java" />
+        <option value="$PROJECT_DIR$/test/ContainsDupes/ContainsDupesTest.java" />
       </list>
     </option>
   </component>
@@ -227,12 +251,13 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="828" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="false" id="Update" />
     <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
@@ -240,6 +265,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
@@ -251,79 +278,18 @@
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MaxProfit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="MaxProfitII" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RotateArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="SortedArrayDupes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="TrapRain" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="MaxProfit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="MaxProfitII" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="RotateArray" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="SortedArrayDupes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="TrapRain" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -332,20 +298,23 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543596433326" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543615316824" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="create.test.in.the.same.root" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
+      <recent name="ContainsDupes" />
       <recent name="RotateArray" />
       <recent name="MaxProfitII" />
       <recent name="MaxProfit" />
       <recent name="TrapRain" />
-      <recent name="SortedArrayDupes" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.company" />
@@ -354,6 +323,7 @@
       <recent name="" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/test/com/company/LongestSubArray" />
       <recent name="$PROJECT_DIR$/test" />
       <recent name="$PROJECT_DIR$" />
     </key>
@@ -371,6 +341,38 @@
     </option>
   </component>
   <component name="RunManager" selected="JUnit.RotateArrayTest">
+    <configuration name="ContainsDupesTest.containsDupes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ContainsDupes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ContainsDupes" />
+      <option name="MAIN_CLASS_NAME" value="ContainsDupes.ContainsDupesTest" />
+      <option name="METHOD_NAME" value="containsDupes" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContainsDupesTest.containsDupesTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="LeetCode" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ContainsDupes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="ContainsDupes" />
+      <option name="MAIN_CLASS_NAME" value="ContainsDupes.ContainsDupesTest" />
+      <option name="METHOD_NAME" value="containsDupesTest1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="RotateArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -381,22 +383,6 @@
       </extension>
       <option name="PACKAGE_NAME" value="RotateArray" />
       <option name="MAIN_CLASS_NAME" value="RotateArray.RotateArrayTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateArrayTest.rotateTestNoChange" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RotateArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="RotateArray" />
-      <option name="MAIN_CLASS_NAME" value="RotateArray.RotateArrayTest" />
-      <option name="METHOD_NAME" value="rotateTestNoChange" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -412,22 +398,6 @@
       <option name="PACKAGE_NAME" value="RotateArray" />
       <option name="MAIN_CLASS_NAME" value="RotateArray.RotateArrayTest" />
       <option name="METHOD_NAME" value="rotateTestOne" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="RotateArrayTest.rotateTestTiny" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RotateArray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="RotateArray" />
-      <option name="MAIN_CLASS_NAME" value="RotateArray.RotateArrayTest" />
-      <option name="METHOD_NAME" value="rotateTestTiny" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -451,18 +421,18 @@
     </configuration>
     <list>
       <item itemvalue="JUnit.RotateArrayTest.rotateTestOne" />
-      <item itemvalue="JUnit.RotateArrayTest.rotateTestNoChange" />
-      <item itemvalue="JUnit.RotateArrayTest.rotateTestTiny" />
       <item itemvalue="JUnit.RotateArrayTest" />
       <item itemvalue="JUnit.TrapRainTest.trapRainFirstTest" />
+      <item itemvalue="JUnit.ContainsDupesTest.containsDupesTest1" />
+      <item itemvalue="JUnit.ContainsDupesTest.containsDupes" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="JUnit.RotateArrayTest" />
+        <item itemvalue="JUnit.ContainsDupesTest.containsDupes" />
+        <item itemvalue="JUnit.ContainsDupesTest.containsDupesTest1" />
         <item itemvalue="JUnit.RotateArrayTest.rotateTestOne" />
         <item itemvalue="JUnit.TrapRainTest.trapRainFirstTest" />
-        <item itemvalue="JUnit.RotateArrayTest.rotateTestTiny" />
-        <item itemvalue="JUnit.RotateArrayTest.rotateTestNoChange" />
       </list>
     </recent_temporary>
   </component>
@@ -483,49 +453,49 @@
       <workItem from="1543263311685" duration="3299000" />
       <workItem from="1543429804831" duration="1223000" />
       <workItem from="1543450205318" duration="10441000" />
+      <workItem from="1543596231760" duration="5524000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="RotateArrayTest_rotateTestTwo - 2018.11.23 at 15h 54m 13s.xml">
-      <configuration name="RotateArrayTest.rotateTestTwo" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateArrayTest_rotateTestNoChange - 2018.11.23 at 15h 54m 18s.xml">
-      <configuration name="RotateArrayTest.rotateTestNoChange" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateArrayTest_rotateTestTiny - 2018.11.23 at 15h 54m 22s.xml">
-      <configuration name="RotateArrayTest.rotateTestTiny" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateArrayTest_rotateTestTiny - 2018.11.23 at 15h 58m 35s.xml">
-      <configuration name="RotateArrayTest.rotateTestTiny" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateArrayTest_rotateTestTiny - 2018.11.23 at 16h 00m 37s.xml">
-      <configuration name="RotateArrayTest.rotateTestTiny" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateArrayTest_rotateTestTiny - 2018.11.23 at 16h 00m 41s.xml">
-      <configuration name="RotateArrayTest.rotateTestTiny" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateArrayTest - 2018.11.23 at 16h 02m 37s.xml">
-      <configuration name="RotateArrayTest" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateArrayTest_rotateTestOne - 2018.11.27 at 13h 53m 23s.xml">
-      <configuration name="RotateArrayTest.rotateTestOne" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="RotateArrayTest_rotateTestOne - 2018.11.27 at 13h 54m 57s.xml">
-      <configuration name="RotateArrayTest.rotateTestOne" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="TrapRainTest_trapRainFirstTest - 2018.11.28 at 16h 26m 00s.xml">
       <configuration name="TrapRainTest.trapRainFirstTest" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="RotateArrayTest_rotateTestOne - 2018.11.30 at 08h 47m 09s.xml">
+      <configuration name="RotateArrayTest.rotateTestOne" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RotateArrayTest - 2018.11.30 at 08h 47m 17s.xml">
+      <configuration name="RotateArrayTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContainsDupesTest_containsDupesTest1 - 2018.11.30 at 13h 20m 56s.xml">
+      <configuration name="ContainsDupesTest.containsDupesTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContainsDupesTest_containsDupesTest1 - 2018.11.30 at 13h 21m 11s.xml">
+      <configuration name="ContainsDupesTest.containsDupesTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContainsDupesTest_containsDupesTest1 - 2018.11.30 at 13h 21m 47s.xml">
+      <configuration name="ContainsDupesTest.containsDupesTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContainsDupesTest_containsDupesTest1 - 2018.11.30 at 13h 22m 32s.xml">
+      <configuration name="ContainsDupesTest.containsDupesTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ContainsDupesTest_containsDupes - 2018.11.30 at 13h 25m 23s.xml">
+      <configuration name="ContainsDupesTest.containsDupes" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RotateArrayTest - 2018.11.30 at 14h 01m 05s.xml">
+      <configuration name="RotateArrayTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="RotateArrayTest - 2018.11.30 at 14h 01m 31s.xml">
+      <configuration name="RotateArrayTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="68129000" />
+    <option name="totallyTimeSpent" value="73653000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="6" />
-    <editor active="true" />
+    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16523606" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16738197" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -533,6 +503,7 @@
       <window_info id="UI Designer" order="5" />
       <window_info id="Learn" order="6" />
       <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.32880434" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32880434" />
@@ -552,7 +523,7 @@
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
       <window_info anchor="right" id="Palette&#9;" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="7" visible="true" weight="0.3297568" />
       <window_info anchor="right" id="Maven Projects" order="8" />
     </layout>
     <layout-to-restore>
@@ -626,12 +597,6 @@
           <properties />
           <option name="timeStamp" value="33" />
         </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RotateArray/RotateArray.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="43" />
-        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -695,13 +660,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="248">
           <caret line="14" column="33" lean-forward="true" selection-start-line="14" selection-start-column="33" selection-end-line="14" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/LongestSubArrTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-386">
-          <caret line="57" column="24" selection-start-line="57" selection-start-column="24" selection-end-line="57" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -785,51 +743,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RotateArray/PROBLEM_DOMAIN.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor>
-            <caret selection-end-line="8" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/RotateArray/RotateArrayTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="534">
-          <caret line="24" selection-start-line="24" selection-start-column="2" selection-end-line="42" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/MaxProfitII/maxProfit2Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="29">
-          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MaxProfitII/maxProfit2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="474">
+        <state relative-caret-position="841">
           <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="33" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/MaxProfit/maxProfit.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="16" selection-start-line="16" selection-end-line="29" selection-end-column="5" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-779">
+        <state relative-caret-position="290">
           <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RotateArray/RotateArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="259">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
@@ -845,24 +779,159 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/TrapRain/TrapRainTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="645">
-          <caret line="26" lean-forward="true" selection-start-line="26" selection-start-column="2" selection-end-line="33" selection-end-column="7" />
+        <state relative-caret-position="696">
+          <caret line="26" selection-start-line="26" selection-start-column="2" selection-end-line="33" selection-end-column="7" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxProfit/maxProfit.java">
+    <entry file="file://$PROJECT_DIR$/test/MaxProfitII/maxProfit2Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="98">
-          <caret line="16" selection-start-line="16" selection-end-line="29" selection-end-column="5" />
+        <state relative-caret-position="145">
+          <caret line="7" column="5" selection-start-line="7" selection-start-column="5" selection-end-line="7" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RotateArray/PROBLEM_DOMAIN.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret selection-end-line="8" selection-end-column="12" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/TrapRain/TrapRain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-150">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="33" selection-end-column="5" />
+        <state relative-caret-position="29">
+          <caret line="19" selection-start-line="19" selection-end-line="33" selection-end-column="5" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/RotateArray/RotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="298">
+          <caret line="18" selection-start-line="18" selection-end-line="45" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/com/company/LongestSubArray/LongestSubArrTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-812">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContainsDupes/PROBLEM_DOMAIN.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="174">
+            <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="16" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ContainsDupes/ContainsDupes.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#960#978#0" expanded="true" />
+            <element signature="e#1391#1400#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/ContainsDupes/ContainsDupesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="13" column="52" selection-start-line="13" selection-start-column="52" selection-end-line="13" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/RotateArray/RotateArrayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="17" selection-start-line="17" selection-end-line="42" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>LeetCode</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
