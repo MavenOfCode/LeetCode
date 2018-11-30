@@ -332,7 +332,7 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543539656737" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543596433326" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -370,7 +370,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TrapRainTest.trapRainFirstTest">
+  <component name="RunManager" selected="JUnit.RotateArrayTest">
     <configuration name="RotateArrayTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -458,9 +458,9 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.TrapRainTest.trapRainFirstTest" />
-        <item itemvalue="JUnit.RotateArrayTest.rotateTestOne" />
         <item itemvalue="JUnit.RotateArrayTest" />
+        <item itemvalue="JUnit.RotateArrayTest.rotateTestOne" />
+        <item itemvalue="JUnit.TrapRainTest.trapRainFirstTest" />
         <item itemvalue="JUnit.RotateArrayTest.rotateTestTiny" />
         <item itemvalue="JUnit.RotateArrayTest.rotateTestNoChange" />
       </list>
