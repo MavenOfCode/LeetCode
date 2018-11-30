@@ -4,7 +4,7 @@ import org.junit.Test;
 
 import static org.junit.Assert.*;
 
-https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
+//https://leetcode.com/explore/interview/card/top-interview-questions-easy/92/array/564/
 public class maxProfit2Test {
 
     @Test

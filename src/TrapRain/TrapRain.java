@@ -20,8 +20,8 @@ public class TrapRain {
 
     public static int trapRain(int[] array) {
         int rainTrapped = 0;
+        int max_left = 0, max_right = 0;
         for (int i = 1; i < array.length - 1; i++) {
-            int max_left = 0, max_right = 0;
             for (int j = i; j >= 0; j--) { //Search the left part for max bar size
                 max_left = Math.max(max_left, array[j]);
             }
