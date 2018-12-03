@@ -31,7 +31,8 @@ public class ContainsDupes {
 
         //initial wrong use of index reference to put into and check in Map
         for(Integer i : array){
-            if(!check.containsKey(i)){
+            int val = array[i];
+            if(!check.containsKey(val)){
                 check.put(i,1);
             } else {
                 result = true;
