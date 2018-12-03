@@ -28,9 +28,13 @@ public class SingleNumber {
             if(!check.containsKey(key)){
                 check.put(key, value);
             } else{
+                //this makes hashset only contain the single number
+                // and removes any number that is a duplicate
                 check.remove(key,value);
             }
         }
+        //goes through refined hashset (of single number) makes it an array and returns
+        //that array's initial index value
         return  (int) check.keySet().toArray()[0];
     }
 

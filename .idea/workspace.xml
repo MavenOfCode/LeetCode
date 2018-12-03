@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47232fef-69f1-4fb4-bfc9-d0ce64a501cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContainsDupes/ContainsDupes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ContainsDupes/ContainsDupes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SingleNumber/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SingleNumber/SingleNumber.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -60,13 +59,13 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="java" value="15170" />
+          <entry key="java" value="15441" />
           <entry key="md" value="713" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="JAVA" value="15170" />
+          <entry key="JAVA" value="15441" />
           <entry key="Markdown" value="705" />
           <entry key="PLAIN_TEXT" value="8" />
         </counts>
@@ -84,11 +83,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/SingleNumber/SingleNumber.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
+            <state relative-caret-position="461">
+              <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -96,11 +95,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/SingleNumber/SingleNumberTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+            <state relative-caret-position="1073">
+              <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
             </state>
           </provider>
         </entry>
@@ -155,8 +154,8 @@
         <option value="$PROJECT_DIR$/test/ContainsDupes/ContainsDupesTest.java" />
         <option value="$PROJECT_DIR$/src/SingleNumber/PROBLEM_DOMAIN.md" />
         <option value="$PROJECT_DIR$/src/ContainsDupes/ContainsDupes.java" />
-        <option value="$PROJECT_DIR$/src/SingleNumber/SingleNumber.java" />
         <option value="$PROJECT_DIR$/test/SingleNumber/SingleNumberTest.java" />
+        <option value="$PROJECT_DIR$/src/SingleNumber/SingleNumber.java" />
       </list>
     </option>
   </component>
@@ -234,9 +233,10 @@
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/sooz/LeetCode/test/SingleNumber/SingleNumberTest.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543799902378" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543799917207" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -406,26 +406,11 @@
       <workItem from="1543450205318" duration="10441000" />
       <workItem from="1543596231760" duration="5524000" />
       <workItem from="1543615771320" duration="2227000" />
-      <workItem from="1543778782590" duration="6384000" />
+      <workItem from="1543778782590" duration="6705000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="SingleNumberTest_singleNumberTest1 - 2018.12.02 at 12h 53m 42s.xml">
-      <configuration name="SingleNumberTest.singleNumberTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SingleNumberTest_singleNumberTest1 - 2018.12.02 at 12h 53m 58s.xml">
-      <configuration name="SingleNumberTest.singleNumberTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SingleNumberTest_singleNumberTest1 - 2018.12.02 at 12h 55m 48s.xml">
-      <configuration name="SingleNumberTest.singleNumberTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SingleNumberTest_singleNumberTest1 - 2018.12.02 at 12h 56m 16s.xml">
-      <configuration name="SingleNumberTest.singleNumberTest1" configurationId="JUnit" />
-    </history-entry>
-    <history-entry file="SingleNumberTest_singleNumberTest1 - 2018.12.02 at 12h 57m 14s.xml">
-      <configuration name="SingleNumberTest.singleNumberTest1" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="SingleNumberTest_singleNumberTest1 - 2018.12.02 at 12h 58m 59s.xml">
       <configuration name="SingleNumberTest.singleNumberTest1" configurationId="JUnit" />
     </history-entry>
@@ -441,9 +426,24 @@
     <history-entry file="SingleNumberTest_singleNumberTest1 - 2018.12.02 at 13h 09m 11s.xml">
       <configuration name="SingleNumberTest.singleNumberTest1" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="SingleNumberTest_singleNumberTest2 - 2018.12.02 at 17h 16m 33s.xml">
+      <configuration name="SingleNumberTest.singleNumberTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingleNumberTest_singleNumberTest1 - 2018.12.02 at 17h 17m 10s.xml">
+      <configuration name="SingleNumberTest.singleNumberTest1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingleNumberTest_singleNumberTest2 - 2018.12.02 at 17h 17m 16s.xml">
+      <configuration name="SingleNumberTest.singleNumberTest2" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingleNumberTest - 2018.12.02 at 17h 18m 07s.xml">
+      <configuration name="SingleNumberTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SingleNumberTest - 2018.12.02 at 17h 18m 23s.xml">
+      <configuration name="SingleNumberTest" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="82264000" />
+    <option name="totallyTimeSpent" value="82585000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="828" extended-state="6" />
@@ -550,18 +550,6 @@
           <line>22</line>
           <properties />
           <option name="timeStamp" value="33" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SingleNumber/SingleNumber.java</url>
-          <line>30</line>
-          <properties />
-          <option name="timeStamp" value="38" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/SingleNumber/SingleNumber.java</url>
-          <line>28</line>
-          <properties />
-          <option name="timeStamp" value="42" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -835,16 +823,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/SingleNumber/SingleNumber.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="36" column="17" selection-start-line="36" selection-start-column="17" selection-end-line="36" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/SingleNumber/PROBLEM_DOMAIN.md">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -854,8 +832,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test/SingleNumber/SingleNumberTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="21" column="24" selection-start-line="21" selection-start-column="24" selection-end-line="21" selection-end-column="24" />
+        <state relative-caret-position="1073">
+          <caret line="40" column="52" selection-start-line="40" selection-start-column="52" selection-end-line="40" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/SingleNumber/SingleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="36" column="26" selection-start-line="36" selection-start-column="26" selection-end-line="36" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
