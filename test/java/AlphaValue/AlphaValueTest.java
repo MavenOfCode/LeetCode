@@ -1,4 +1,4 @@
-package com.company.AlphaValue;
+package AlphaValue;
 
 import org.junit.Test;
 
@@ -11,8 +11,8 @@ public class AlphaValueTest {
     @Test
     public void alphaValueTest() {
 
-        Map<String, Integer> result = AlphaValue.alphaValue();
+//        Map<String, Integer> result =
 
-        System.out.println(result.toString());
+//        System.out.println(result.toString());
     }
 }

@@ -1,4 +1,4 @@
-package com.company.Print2DArray;
+package Print2DArray;
 
 import org.junit.Test;
 

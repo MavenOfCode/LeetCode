@@ -1,4 +1,4 @@
-package com.company.addDigits;
+package addDigits;
 
 import org.junit.Test;
 

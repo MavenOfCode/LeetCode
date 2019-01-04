@@ -1,4 +1,4 @@
-package com.company.LongestSubArray;
+package LongestSubArray;
 
 import com.company.SubarrayLongestArray.LongestSubArr;
 import org.junit.Test;

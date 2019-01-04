@@ -1,4 +1,4 @@
-package com.company.SubarrayGreatestSum;
+package SubarrayGreatestSum;
 
 import org.junit.Test;
 
