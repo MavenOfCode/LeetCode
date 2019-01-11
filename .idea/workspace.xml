@@ -2,50 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="47232fef-69f1-4fb4-bfc9-d0ce64a501cd" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContainsDupes/ContainsDupes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ContainsDupes/ContainsDupes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ContainsDupes/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ContainsDupes/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxProfit/maxProfit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaxProfit/maxProfit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxProfitII/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaxProfitII/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MaxProfitII/maxProfit2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/MaxProfitII/maxProfit2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RotateArray/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RotateArray/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RotateArray/RotateArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/RotateArray/RotateArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleNumber/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingleNumber/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SingleNumber/SingleNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SingleNumber/SingleNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortedArrayDupes/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortedArrayDupes/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SortedArrayDupes/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SortedArrayDupes/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TrapRain/TrapRain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TrapRain/TrapRain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoArraysII/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoArraysII/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TwoArraysII/TwoArraysII.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/TwoArraysII/TwoArraysII.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/AlphaValue/AlphaValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/AlphaValue/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlphaValue/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/Print2DArray/PrintArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Print2DArray/PrintArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/SubarrayGreatestSum/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SubarrayGreatestSum/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/SubarrayGreatestSum/maxSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SubarrayGreatestSum/maxSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/SubarrayLongestArray/LongestSubArr.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SubarrayLongestArray/LongestSubArr.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/SubarrayLongestArray/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/SubarrayLongestArray/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/addDigits/PROBLEM_DOMAIN.md" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/addDigits/PROBLEM_DOMAIN.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/addDigits/addDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/addDigits/addDigits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/LinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedlist/LinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/linkedlist/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/linkedlist/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/ContainsDupes/ContainsDupesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/ContainsDupes/ContainsDupesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/MaxProfit/maxProfitTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/MaxProfit/maxProfitTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/MaxProfitII/maxProfit2Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/MaxProfitII/maxProfit2Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/RotateArray/RotateArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/RotateArray/RotateArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SingleNumber/SingleNumberTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/SingleNumber/SingleNumberTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/SortedArrayDupes/RemoveDuplicatesTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/SortedArrayDupes/RemoveDuplicatesTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TrapRain/TrapRainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/TrapRain/TrapRainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/TwoArraysII/TwoArraysIITest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/TwoArraysII/TwoArraysIITest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/AlphaValue/AlphaValueTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/LongestSubArray/LeetCode.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/LongestSubArray/LongestSubArrTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/LongestSubArray/LongestSubArrTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/Print2DArray/PrintArraysTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/Print2DArray/PrintArraysTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/SubarrayGreatestSum/maxSubArrayTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/SubarrayGreatestSum/maxSubArrayTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/com/company/addDigits/addDigitsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/addDigits/addDigitsTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/linkedlist/LinkedListTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/linkedlist/LinkedListTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/java/AlphaValue/AlphaValueTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/test/java/AlphaValue/AlphaValueTest.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -103,21 +63,9 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="290">
-              <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="37" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/LinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1562">
+            <state relative-caret-position="324">
               <caret line="166" column="8" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="8" />
             </state>
           </provider>
@@ -125,9 +73,7 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/SortedArrayDupes/RemoveDuplicates.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1281" />
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -139,20 +85,23 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+            <state relative-caret-position="408">
+              <caret line="61" column="72" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test/java/AlphaValue/AlphaValueTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="365">
-              <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+            <state relative-caret-position="348">
+              <caret line="12" selection-start-line="12" selection-end-line="12" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -186,7 +135,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/company/SubarrayGreatestSum/PROBLEM_DOMAIN.md" />
         <option value="$PROJECT_DIR$/src/com/company/SubarrayLongestArray/PROBLEM_DOMAIN.md" />
         <option value="$PROJECT_DIR$/src/com/company/SubarrayLongestArray/LongestSubArrTest.java" />
         <option value="$PROJECT_DIR$/test/com/company/Print2DArray/PrintArraysTest.java" />
@@ -237,13 +185,14 @@
         <option value="$PROJECT_DIR$/src/main/java/linkedlist/LinkedList.java" />
         <option value="$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValueTest.java" />
         <option value="$PROJECT_DIR$/test/java/AlphaValue/AlphaValueTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="828" />
+    <option name="height" value="829" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="false" id="Update" />
@@ -255,7 +204,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -289,21 +237,11 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="AlphaValue" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -314,7 +252,7 @@
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/sooz/LeetCode/test/SingleNumber/SingleNumberTest.java" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1546567048483" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547247523050" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Arquillian JUnit4" value="" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
@@ -362,7 +300,33 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.AlphaValueTest.alphaValueTest">
+  <component name="RunManager" selected="Application.AlphaValue (1)">
+    <configuration name="AlphaValue (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AlphaValue.AlphaValue" />
+      <module name="LeetCode_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AlphaValue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="AlphaValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.AlphaValue.AlphaValue" />
+      <module name="LeetCode_main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.AlphaValue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="LeetCode" />
@@ -406,36 +370,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SingleNumberTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SingleNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SingleNumber" />
-      <option name="MAIN_CLASS_NAME" value="SingleNumber.SingleNumberTest" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="SingleNumberTest.singleNumberTest2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="LeetCode" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="SingleNumber.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="SingleNumber" />
-      <option name="MAIN_CLASS_NAME" value="SingleNumber.SingleNumberTest" />
-      <option name="METHOD_NAME" value="singleNumberTest2" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="TwoArraysIITest.intersectTest1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="LeetCode" />
       <extension name="coverage">
@@ -471,19 +405,19 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="JUnit.RotateArrayTest" />
-      <item itemvalue="JUnit.SingleNumberTest.singleNumberTest2" />
-      <item itemvalue="JUnit.SingleNumberTest" />
       <item itemvalue="JUnit.TwoArraysIITest.intersectTest1" />
       <item itemvalue="JUnit.TwoArraysIITest.intersectTest2" />
       <item itemvalue="JUnit.AlphaValueTest.alphaValueTest" />
+      <item itemvalue="Application.AlphaValue" />
+      <item itemvalue="Application.AlphaValue (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AlphaValue (1)" />
+        <item itemvalue="Application.AlphaValue" />
         <item itemvalue="JUnit.AlphaValueTest.alphaValueTest" />
         <item itemvalue="JUnit.TwoArraysIITest.intersectTest2" />
         <item itemvalue="JUnit.TwoArraysIITest.intersectTest1" />
-        <item itemvalue="JUnit.SingleNumberTest" />
-        <item itemvalue="JUnit.SingleNumberTest.singleNumberTest2" />
       </list>
     </recent_temporary>
   </component>
@@ -514,7 +448,9 @@
       <workItem from="1546299020872" duration="5978000" />
       <workItem from="1546565991974" duration="60000" />
       <workItem from="1546566074571" duration="94000" />
-      <workItem from="1546566174433" duration="675000" />
+      <workItem from="1546566174433" duration="1501000" />
+      <workItem from="1546897487451" duration="1779000" />
+      <workItem from="1547234309050" duration="6656000" />
     </task>
     <servers />
   </component>
@@ -551,13 +487,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="111194000" />
+    <option name="totallyTimeSpent" value="120455000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="828" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17310444" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.021459227" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -567,8 +503,8 @@
       <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32880434" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39945653" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3283582" />
+      <window_info active="true" anchor="bottom" id="Debug" order="3" visible="true" weight="0.39891452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -578,7 +514,7 @@
       <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.5007153" side_tool="true" weight="0.32880434" />
       <window_info anchor="bottom" id="Messages" order="11" weight="0.32880434" />
       <window_info anchor="bottom" id="Thumbnails" order="12" weight="0.32880434" />
-      <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49928468" visible="true" weight="0.32880434" />
+      <window_info anchor="bottom" id="Build" order="13" sideWeight="0.49928468" weight="0.32880434" />
       <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -593,7 +529,7 @@
       <window_info anchor="right" id="Maven" order="10" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16452074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17739628" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -715,9 +651,57 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java</url>
-          <line>36</line>
+          <line>29</line>
           <properties />
-          <option name="timeStamp" value="56" />
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java</url>
+          <line>30</line>
+          <properties />
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java</url>
+          <line>40</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java</url>
+          <line>44</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java</url>
+          <line>50</line>
+          <properties />
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java</url>
+          <line>61</line>
+          <properties />
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java</url>
+          <line>64</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java</url>
+          <line>72</line>
+          <properties />
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="68" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -1013,15 +997,22 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/gradlew" />
     <entry file="file://$PROJECT_DIR$/gradlew.bat" />
-    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+        <state relative-caret-position="58">
+          <caret line="2" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/SortedArrayDupes/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1037,53 +1028,37 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="58">
-          <caret line="2" selection-start-line="2" selection-end-line="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1562">
-          <caret line="166" column="8" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/SortedArrayDupes/RemoveDuplicates.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1281" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/test/java/AlphaValue/AlphaValueTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="15" column="26" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+        <state relative-caret-position="348">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="27" column="44" selection-start-line="27" selection-start-column="44" selection-end-line="27" selection-end-column="44" />
+        <state relative-caret-position="213">
+          <caret line="10" selection-start-line="10" selection-end-line="11" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test/java/AlphaValue/AlphaValueTest.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/linkedlist/LinkedList.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="365">
-          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        <state relative-caret-position="324">
+          <caret line="166" column="8" selection-start-line="166" selection-start-column="8" selection-end-line="166" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/AlphaValue/AlphaValue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="61" column="72" selection-start-line="61" selection-start-column="72" selection-end-line="61" selection-end-column="72" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

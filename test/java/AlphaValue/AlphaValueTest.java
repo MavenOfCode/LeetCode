@@ -11,8 +11,6 @@ public class AlphaValueTest {
     @Test
     public void alphaValueTest() {
 
-//        Map<String, Integer> result =
 
-//        System.out.println(result.toString());
     }
 }
