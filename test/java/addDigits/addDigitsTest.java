@@ -9,7 +9,7 @@ public class addDigitsTest {
     @Test
     public void addDigitsBaseTest() {
         int expected = 2;
-        int actual = addDigits.addDigits(38);
+        int actual =Add addDigits.addDigits(38);
         assertEquals(expected,actual);
     }
 
