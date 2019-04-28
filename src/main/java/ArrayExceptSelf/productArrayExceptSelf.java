@@ -22,7 +22,6 @@ public class productArrayExceptSelf {
         //declare result output array
         int[] output = new int[nums.length];
         //iterate through nums array for product and divide by self to remove self from product in the output array
-
         for(int i = 0; i < nums.length; i ++){
             output[i] = 1;
             for (int j = 0; j < nums.length ; j++){
