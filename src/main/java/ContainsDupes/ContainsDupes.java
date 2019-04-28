@@ -49,6 +49,10 @@ public class ContainsDupes {
             if(!check.add(element)){
                 result = true;
             }
+            else{
+                check.add(inputArray[element]);
+            }
+
         }
         return result;
     }

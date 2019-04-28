@@ -1,4 +1,4 @@
-package com.company.addDigits;
+package addDigits;
 
 public class addDigits {
 

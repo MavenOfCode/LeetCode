@@ -1,4 +1,4 @@
-package com.company.Print2DArray;
+package Print2DArray;
 
 //warm up for phone tech screen (not LeetCode)
 
@@ -9,6 +9,9 @@ public class PrintArrays {
     //each array must be printed in a single line with spaces between each integer
     //there must be a total number of lines that equals the input number of rows
 
+    public static void main(String[] args) {
+        printArrays(5);
+    }
     public static String printArrays(int rows){
         for (int i = 1; i <= rows; i ++){
             for (int j = 1; j < rows +1 ; j++){
